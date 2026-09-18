@@ -843,7 +843,7 @@ a.theme2-btn {
 /*******************************************************/
 h1, h2, h3, h4, h5, h6, .section-title .sub-title, .price-tab .nav-link span, .tag-share b, .comment-body .comment-content .reply-link, .widget-menu ul li a, .product-details-content .category-tags li b, .product-information-tab li a {
   font-weight: 600;
-  color: var(--dark-color);
+  color: var(--black-color);
   font-family: var(--title-font); }
 
   .counter-item .count-text{
@@ -3306,7 +3306,7 @@ width: 100px; }
     left: 0;
     top: 0;
     z-index: -1;
-    background: rgba(3, 16, 73, 0.3); }
+    background: rgba(0, 1, 3, 0.3); }
     .hero-section .hero-bg-shapes:before {
       width: 18%;
       height: 200%;
